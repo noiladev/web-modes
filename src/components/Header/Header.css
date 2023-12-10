@@ -1,0 +1,13 @@
+.light {
+    background-color: #d8d5d5;
+    border: 5px solid blue;
+    margin: 10px 15px;
+    color: rgb(255, 0, 51);
+}
+
+.night {
+    background-color: dimgrey;
+    border: 5px solid #1ad1c8;
+    margin: 10px 15px;
+    color: rgb(59, 231, 231) ;
+}

@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.btn__remove {
+  padding: 15px 30px;
+  border-radius: 7px;
+  border: none;
+  border: 3px solid rgb(17, 107, 6);
+  background-color: rgb(39, 194, 25) ;
+  font-size: 22px;
+  color: #fff;
+  margin-left: 40px;
+}
+
+.btn__add {
+  padding: 15px 30px;
+  border-radius: 7px;
+  border: none;
+  border: 3px solid rgb(27, 12, 112);
+  background-color: blue;
+  font-size: 22px;
+  color: #fff;
+}
